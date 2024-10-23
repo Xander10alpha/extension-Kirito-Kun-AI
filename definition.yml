@@ -1,0 +1,8 @@
+name: Kirito-Kun
+display-name: "Kirito Kun KI"
+author: Xander10alpha
+version: 1.0.0
+dependencies: 
+  aiSwapper: ^1.0.1
+  framework: ^3.0.0
+  frontend: ^1.0.0
