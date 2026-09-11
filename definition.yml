@@ -13,8 +13,3 @@ tags:
 - ai
 - aic
 - aiv
-capabilities:
-  files: true
-  code: false
-  configuration: false
-  options: false
